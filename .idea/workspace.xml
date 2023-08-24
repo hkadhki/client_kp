@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a567892f-665c-4af1-ac46-50622c089a1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Errors/Errors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPChat/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPChat/src/main/java/org/example/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPChat/src/main/java/org/example/Client1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPChat/src/main/java/org/example/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPChat/src/main/java/org/example/ServerConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook/PhoneBook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Students/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Students/Students.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/main/java/org/example/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/PhoneBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_2/src/main/java/org/example/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_2/src/test/java/PhoneBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aa/aa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatServer/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatServer/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatServer/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatServer/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatServer/src/main/java/org/example/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatServer/src/main/java/org/example/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatServer/src/main/java/org/example/ServerSomthing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_kp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_kp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_kp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_kp/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_kp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_kp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_kp/file.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_kp/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_kp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_kp/src/main/java/org/example/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_kp/src/main/java/org/example/ServerConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elevator/elevator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grad/grad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graph/graph.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hash/hash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jen1/jen1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jen2/jen2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../meme/meme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../note/note.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prTDD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prTDD/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prTDD/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prTDD/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prTDD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prTDD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prTDD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prTDD/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prTDD/src/main/java/org/example/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prTDD/src/test/java/PhoneBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/shop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../status/status.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../t4/t4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tTDD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tTDD/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tTDD/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tTDD/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tTDD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tTDD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tTDD/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tTDD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tTDD/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tTDD/src/main/java/org/example/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tTDD/src/test/java/PhoneBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/team.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tree/tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/untitled5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/untitled6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/untitled7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weapon/weapon.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2U3gXoAIKnlf6canC5UNHBha1uW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/markd/OneDrive/Рабочий стол/InteliJ IDEA/chat_kp&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a567892f-665c-4af1-ac46-50622c089a1b" name="Changes" comment="" />
+      <created>1692173721330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692173721330</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
